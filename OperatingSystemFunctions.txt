@@ -2,3 +2,5 @@ One function of an operating system is to provide security for the user/users of
 To protect user private user data, it allows you to set up a password for different profiles.
 It also has different types of user profiles such as administrator profiles which have more permissions than normal user profiles. 
 For example, an administrator can restrict simple user profiles ability to  download programs which is very helpful if it is something like a family computer and you don't want your less computer savvy family members to muck up your computer with bloatware or worse.
+
+Another function of an operating system is to provide a user interface. A user interface or UI is where interactions between a human and computer take place. A UI takes input from a human through pointing devices, keyboards and other input devices and outputs them to a computer monitor, speakers, or other output devices. A UI should make a users interaction with the computer easy, intuitive, fast, and aesthetically pleasing.
